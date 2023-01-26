@@ -13,3 +13,7 @@
 2023-01-26 14:50:35.378 [info] [127.0.0.1][b2077794][ExtensionHostConnection] New connection established.
 2023-01-26 14:50:35.384 [info] [127.0.0.1][b2077794][ExtensionHostConnection] <22611> Launched Extension Host Process.
 2023-01-26 14:55:34.365 [info] New EH opened, aborting shutdown
+2023-01-26 15:13:19.447 [error] Error: connect ECONNREFUSED 127.0.0.1:56025
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+2023-01-26 15:13:19.448 [error] Error: connect ECONNREFUSED 127.0.0.1:56025
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)

@@ -147,3 +147,25 @@ Cancelling previous shutdown timeout
 ]
 New EH opened, aborting shutdown
 [14:55:34] New EH opened, aborting shutdown
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:56025
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:56025
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[15:13:19] Error: connect ECONNREFUSED 127.0.0.1:56025
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 56025
+}
+rejected promise not handled within 1 second: Error: connect ECONNREFUSED 127.0.0.1:56025
+stack trace: Error: connect ECONNREFUSED 127.0.0.1:56025
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16)
+[15:13:19] Error: connect ECONNREFUSED 127.0.0.1:56025
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1157:16) {
+  errno: -111,
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 56025
+}
