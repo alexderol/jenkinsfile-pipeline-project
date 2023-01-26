@@ -1,0 +1,9 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "security.workspace.trust.untrustedFiles": "open",
+    "files.autoSave": "afterDelay",
+    "remote.SSH.connectTimeout": 30,
+    "remote.SSH.remotePlatform": {
+        "Jenkins": "linux"
+    }
+}

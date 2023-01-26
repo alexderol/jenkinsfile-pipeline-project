@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:wq
+|2,0,1674740125,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -21,16 +23,67 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+"-	CHAR	0
+	
+|3,0,36,0,1,0,1674739654,""
 
 # File marks:
-'0  1  0  ~/jenkinsfile-pipeline-project/Jenkinsfile
-|4,48,1,0,1674681134,"~/jenkinsfile-pipeline-project/Jenkinsfile"
+'0  12  0  ~/jenkinsfile-pipeline-project/jenkinsfile
+|4,48,12,0,1674740125,"~/jenkinsfile-pipeline-project/jenkinsfile"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1674739908,"~/.git/COMMIT_EDITMSG"
+'2  1  0  ~/jenkinsfile-pipeline-project/jenkinsfile
+|4,50,1,0,1674739905,"~/jenkinsfile-pipeline-project/jenkinsfile"
+'3  1  0  ~/jenkinsfile-pipeline-project/jenkinsfile
+|4,51,1,0,1674739905,"~/jenkinsfile-pipeline-project/jenkinsfile"
+'4  1  0  ~/jenkinsfile-pipeline-project/Jenkinsfile
+|4,52,1,0,1674681134,"~/jenkinsfile-pipeline-project/Jenkinsfile"
 
 # Jumplist (newest first):
+-'  12  0  ~/jenkinsfile-pipeline-project/jenkinsfile
+|4,39,12,0,1674740125,"~/jenkinsfile-pipeline-project/jenkinsfile"
+-'  1  0  ~/jenkinsfile-pipeline-project/jenkinsfile
+|4,39,1,0,1674739988,"~/jenkinsfile-pipeline-project/jenkinsfile"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1674739908,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1674739908,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/jenkinsfile-pipeline-project/jenkinsfile
+|4,39,1,0,1674739905,"~/jenkinsfile-pipeline-project/jenkinsfile"
+-'  1  0  ~/jenkinsfile-pipeline-project/Jenkinsfile
+|4,39,1,0,1674681134,"~/jenkinsfile-pipeline-project/Jenkinsfile"
+-'  1  0  ~/jenkinsfile-pipeline-project/Jenkinsfile
+|4,39,1,0,1674681134,"~/jenkinsfile-pipeline-project/Jenkinsfile"
+-'  1  0  ~/jenkinsfile-pipeline-project/Jenkinsfile
+|4,39,1,0,1674681134,"~/jenkinsfile-pipeline-project/Jenkinsfile"
+-'  1  0  ~/jenkinsfile-pipeline-project/Jenkinsfile
+|4,39,1,0,1674681134,"~/jenkinsfile-pipeline-project/Jenkinsfile"
+-'  1  0  ~/jenkinsfile-pipeline-project/Jenkinsfile
+|4,39,1,0,1674681134,"~/jenkinsfile-pipeline-project/Jenkinsfile"
 -'  1  0  ~/jenkinsfile-pipeline-project/Jenkinsfile
 |4,39,1,0,1674681134,"~/jenkinsfile-pipeline-project/Jenkinsfile"
 
 # History of marks within files (newest to oldest):
+
+> ~/jenkinsfile-pipeline-project/jenkinsfile
+	*	1674740111	0
+	"	12	0
+	^	12	1
+	.	12	0
+	+	1	0
+	+	2	10
+	+	13	0
+	+	12	0
+
+> ~/.git/COMMIT_EDITMSG
+	*	1674731825	0
+	"	1	0
+	.	1	0
+	+	1	275
+	+	10	1
+	+	6	1
+	+	7	0
+	+	1	0
 
 > ~/jenkinsfile-pipeline-project/Jenkinsfile
 	*	1674679358	0

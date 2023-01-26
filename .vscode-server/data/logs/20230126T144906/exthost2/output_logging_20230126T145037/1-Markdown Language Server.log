@@ -1,0 +1,8 @@
+[Trace 14:58:04.785] VsCodeClientWorkspace: TextDocument.onDidOpen: file:///home/ec2-user/README%20%281%29.md
+[Trace 14:58:04.792] VsCodeClientWorkspace: TextDocument.onDidChanceContent: file:///home/ec2-user/README%20%281%29.md
+[Trace 14:58:04.797] Server: connection.languages.diagnostics.on: file:///home/ec2-user/README%20%281%29.md
+[Trace 14:58:04.799] Server: connection.languages.diagnostics.on: file:///home/ec2-user/README%20%281%29.md
+[Trace 14:58:06.572] DocumentSymbolProvider: provideDocumentSymbols — file:///home/ec2-user/README%20%281%29.md 1
+[Debug 14:58:06.573] LinkProvider: compute - file:///home/ec2-user/README%20%281%29.md
+[Debug 14:58:06.760] MdFoldingProvider: provideFoldingRanges — file:///home/ec2-user/README%20%281%29.md 1
+[Debug 14:58:06.761] TableOfContentsProvider: create - file:///home/ec2-user/README%20%281%29.md

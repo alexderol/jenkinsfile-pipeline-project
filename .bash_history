@@ -46,3 +46,32 @@ vim Jenkinsfile
 pwd
 /var/lib/jenkins/secrets/initialAdminPassword
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+git add .
+git init
+git add .
+git clone https://github.com/alexderol/jenkinsfile-pipeline-project.git
+clear
+git clone https://github.com/alexderol/jenkinsfile-pipeline-project.git
+git status
+git commit -m 'düzeltme'
+git push
+git remote add erol https://github.com/alexderol/jenkinsfile-pipeline-project.git
+git push erol
+git push --set-upstream erol master
+git status
+git branch
+git push
+git push --set-upstream erol master
+cd
+ls -la
+cd jenkinsfile-pipeline-project/
+vim jenkinsfile
+git status
+git push
+ls -la
+clear
+ls -la
+git commit -m "voav"
+git push
+git add
+git commit -a
